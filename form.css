@@ -1,0 +1,35 @@
+.logo{
+    float: left;
+    color: white;
+    text-align: bottom;
+    padding : 5px;
+    display: block;
+    
+}
+.atas{
+    border-style: solid;
+    border-bottom: 0ch;
+    background-color : blue;
+    text-align:center;
+    padding: 40px;
+}
+
+.atas ul li{
+    float : right;
+    list-style-type: none;
+}
+.atas ul li a{
+    display : block;
+    color : white;
+    text-align : center;
+    padding : 5px;
+    text-decoration: none;
+}
+.content{
+    border-style: solid;
+    padding: 90px;
+}
+.contentHome{
+    border-style: solid;
+}
+
